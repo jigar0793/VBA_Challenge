@@ -10,11 +10,11 @@ Steve wanted to find total daily volume and yearly return of each stocks during 
 
 #### Image for 2017 dataset:
 
-
+![2017](https://user-images.githubusercontent.com/94248676/156986035-38a243fd-d306-4440-ab46-d9eae3e066a0.png)
 
 #### Image for 2018 dataset:
 
-
+![2018](https://user-images.githubusercontent.com/94248676/156986071-326ed1d7-7f83-40b9-b277-07cc3020cc18.png)
 
 ### Refactoring Code
 
@@ -22,11 +22,19 @@ The results of timings shows that its was more efficient after refactoring or ed
 
 #### Image for 2017 dataset:
 
+Before: 
+![2017 timing](https://user-images.githubusercontent.com/94248676/156986195-d5ad61d2-494c-40a3-b09c-e279240a4481.png)
 
+After:
+![2017 TIMING 1](https://user-images.githubusercontent.com/94248676/156986249-9a6d268f-4e56-4855-ac56-231071a377cc.png)
 
 #### Image for 2018 dataset:
 
+Before:
+![2018 timer](https://user-images.githubusercontent.com/94248676/156986315-f722ef08-f397-4a37-b2be-5e15f9674b2c.png)
 
+After:
+![2018 TIMING 2](https://user-images.githubusercontent.com/94248676/156986347-0dcd6be4-e4a6-4c01-9fe8-297fa97c8d0e.png)
 
 ## Summary
 
